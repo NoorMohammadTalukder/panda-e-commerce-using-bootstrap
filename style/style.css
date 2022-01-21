@@ -19,6 +19,9 @@
 
 
 /* category */
+.panda-category{
+overflow-x: hidden;
+}
 
 .panda-category img {
     width: 100px;
