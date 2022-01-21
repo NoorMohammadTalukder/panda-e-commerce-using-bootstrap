@@ -1,0 +1,42 @@
+/* common */
+
+.panda-shadow {
+    box-shadow: 10px 10px 25px gray;
+    /* background-color: red; */
+}
+
+.panda-btn {
+    color: white;
+    background-color: #ff3786;
+}
+
+
+/* slider */
+
+.panda-slider-bg {
+    background-color: #fceae8;
+}
+
+
+/* category */
+
+.panda-category img {
+    width: 100px;
+}
+
+.panda-bg img {
+    width: 333px !important;
+    padding-top: 35px !important;
+}
+
+.panda-category-shoe {
+    background-color: #0000a2;
+}
+
+.panda-category-bag {
+    background-color: #da70d6;
+}
+
+.panda-category-watch {
+    background-color: #ffa500;
+}
