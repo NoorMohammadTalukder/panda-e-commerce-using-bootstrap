@@ -1,7 +1,5 @@
 /* common */
-body{
-overflow-x:hidden;
-}
+
 .panda-shadow {
     box-shadow: 10px 10px 25px gray;
     /* background-color: red; */
